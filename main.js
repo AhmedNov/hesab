@@ -10,7 +10,7 @@ colcBtn.onclick = function() {
     }
 
     else{
-        alert('sehv')
+        alert(' enter even number ')
         
     }
 }
