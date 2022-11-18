@@ -10,7 +10,7 @@ calcBtn.onclick = function() {
     }
 
     else{
-        alert(' ENTER EVEN NUMBER')
+        alert(' ENTER EVEN NUMBER ')
         
     }
 }
